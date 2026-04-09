@@ -14,7 +14,7 @@ public class ArrayListOperations {
             items.add(scanner.next());
         }
         
-        String searchItem = scanner.next();
+        String searchItem = scanner.next(); 
         
         Collections.sort(items);
         
